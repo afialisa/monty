@@ -3,7 +3,7 @@
  * f_add - A function that adds the top two elements of a stack
  * @head: head of stack
  * @counter: number
- * Return: None
+ * Return: returns nothing
 */
 void f_add(stack_t **head, unsigned int counter)
 {
